@@ -1,0 +1,1 @@
+ArrayList<Book> list = new ArrayList<Book>();Book b1 = new Book("Great Expectations");Book b2 = new Book("War and Peace");list.add(b1);list.add(b2);list
